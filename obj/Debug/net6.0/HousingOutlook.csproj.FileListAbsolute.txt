@@ -1,0 +1,62 @@
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.exe
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.deps.json
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.runtimeconfig.json
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.dll
+C:\Users\Administrator\source\repos\HousingOutlook\bin\Debug\net6.0\HousingOutlook.pdb
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.HousingOutlook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.build.HousingOutlook.props
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HousingOutlook.props
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HousingOutlook.props
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\scopedcss\bundle\HousingOutlook.styles.css
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\scopedcss\projectbundle\HousingOutlook.bundle.scp.css
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.dll
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\refint\HousingOutlook.dll
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.pdb
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\HousingOutlook.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\HousingOutlook\obj\Debug\net6.0\ref\HousingOutlook.dll
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.staticwebassets.runtime.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.exe
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.deps.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.runtimeconfig.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.dll
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\bin\Debug\net6.0\HousingOutlook.pdb
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.HousingOutlook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.build.HousingOutlook.props
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HousingOutlook.props
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HousingOutlook.props
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\scopedcss\bundle\HousingOutlook.styles.css
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\scopedcss\projectbundle\HousingOutlook.bundle.scp.css
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.dll
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\refint\HousingOutlook.dll
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.pdb
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\HousingOutlook.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\02WEEKLY TASKS\HousingOutlook\obj\Debug\net6.0\ref\HousingOutlook.dll
